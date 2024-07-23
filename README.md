@@ -12,4 +12,4 @@ In recent years, black beans (Phaseolus vulgaris L.) have gained popularity in t
 
 ### Data:
 - GB_BLB: An R list containing the phenotype, genotype, NIRs, and SNP positions.
-- Raw Sequencing Data: Available at [NCBI BioProject] http://www.ncbi.nlm.nih.gov/bioproject/1138671
+- Raw Sequencing Data: Available at [http://www.ncbi.nlm.nih.gov/bioproject/1138671](https://www.ncbi.nlm.nih.gov/sra/PRJNA1138671)
