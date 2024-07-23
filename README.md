@@ -11,5 +11,5 @@ In recent years, black beans (Phaseolus vulgaris L.) have gained popularity in t
 3. R scripts for GWAS-assisted and multi-trait models specifically for canning appearance and yield.
 
 ### Data:
-- GB_BLB: An R list containing the phenotype, genotype, NIRs, and SNP positions.
+- GB_BLB.RData: An R list containing the phenotype, genotype, NIRs, and SNP positions.
 - Raw Sequencing Data available at [http://www.ncbi.nlm.nih.gov/bioproject/1138671](https://www.ncbi.nlm.nih.gov/sra/PRJNA1138671)
