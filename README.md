@@ -6,6 +6,7 @@ In recent years, black beans (Phaseolus vulgaris L.) have gained popularity in t
 ## Organization of this Repository
 
 ### Scripts:
+0. R scripts for spatial analysis in the field to obtain BLUPs.
 1. R scripts for comparing GBLUP and different kernels (K1, K2, K3, and KA).
 2. R scripts for GWAS-assisted and multi-trait models across all traits.
 3. R scripts for GWAS-assisted and multi-trait models specifically for canning appearance and yield.
