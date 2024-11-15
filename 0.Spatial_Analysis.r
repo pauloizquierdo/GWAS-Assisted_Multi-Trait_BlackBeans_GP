@@ -5,9 +5,6 @@ library(SpATS)      # For spatial analysis of field trials
 library(fields)     # For generating spatial trend plots
 library(plyr)       # For merging multiple data frames
 
-# Set working directory
-setwd("~/OneDrive - Michigan State University/Work2020-2023/BBL/chapter3/scripts")
-
 # Clear the R environment
 rm(list = ls())
 
